@@ -2,6 +2,11 @@ Pamir: Discovery and Genotyping of Novel Sequence Insertions in Many Sequenced I
 ======
 Pamir detects and genotypes novel sequence insertions in single or multiple datasets of paired-end WGS (Whole Genome Sequencing) Illumina reads by jointly analyzing one-end anchored (OEA) and orphan reads.
 
+# Table of contents
+1. [Installation](#installation)
+2. [Commands Options](#commands-options)
+
+
 
 ## Installation
 Source code of Pamir can be downloaded from [GitHub](https://github.com/vpc-ccg/pamir). To begin with, you will need to set up several external tools as described below.
